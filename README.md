@@ -16,9 +16,11 @@ BSc: [University of Agder](https://www.uia.no/studieplaner/programme/BACMAT?year
  **Stochastic processes and numerical methods** (in progress)
  
  **Economics** (in progress)
+ 
  This repo will explore different methods and models on financial data.
  
  **Social Sciences** (in progress)
+ 
  This repo will explore different methods and models on data within Psychology, Sociology, Anthropology etc. 
  
  
