@@ -24,7 +24,10 @@ BSc: [University of Agder](https://www.uia.no/studieplaner/programme/BACMAT?year
  This repo will explore different methods and models on data within Psychology, Sociology, Anthropology etc. 
  
  
- # Other
+ # Other/ Shout outs
  Feel free to contact me on: 
  
  - [LinkedIn](https://no.linkedin.com/in/jugjestvang)
+
+Check out these github pages:
+ - [Maruo Di Pietro](https://github.com/mdipietro09)
